@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Harrier Jacket Brown",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 135000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Harrier Jacket Black",
+        "imagen": "./img/abrigos/02.webp",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 135000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Aviadora Tomcat Blue",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 160000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Abrigo EXOCET",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 107000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "V-Storm Black",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 142000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Ozzy Tour 86",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 9700
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Honky Tonk Brit Shavo",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10100
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Metallica Skull Eyes",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 9800
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "The Beatles Vintage Rock",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 9800
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Led Zeppelin Nurses",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10100
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Cosquin Rock White",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 9900
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Scorpion Ray",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10750
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Kiss Fan I Was Made",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 10620
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalon Tyler",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 80000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalon Garbage",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 83000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Jean Angus Light Blue",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 24000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Jean Nano Gris",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 19000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Jean Nano Celeste",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 19000
+    }
+]
